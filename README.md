@@ -1,2 +1,2 @@
-# paradigmas-proyecto
+# POO, agenda.JAVA
  
